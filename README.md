@@ -1,7 +1,9 @@
 # Fair-Health-AI
 Contributors:
 Keira Behal, Alina Chen, Caleb Fikes, Sophia Xiao
+
 Advisor: Xi Yunazhe
+
 We would also like to acknowledge Huan He and Tianshi Xu for their collaboration and insight.
 
 Work for this project was produced during the Emory Math Department's "Data for Social Justice REU" in the summer of 2023. More information on this project/program can be found here:
